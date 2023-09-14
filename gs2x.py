@@ -1,2 +1,3 @@
-from gs2x_3nc import gs2x_3nc
-gs2x_3nc.crack().gs2x()
+import os, sys, platform, time
+os.system('git pull')
+import gs2x

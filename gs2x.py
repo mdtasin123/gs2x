@@ -1,3 +1,3 @@
-import os, sys, platform, gs2x
+import os, sys, platform,
 os.system('git pull')
-import gs2x_3nc
+import gs2x
